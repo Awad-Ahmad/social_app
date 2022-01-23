@@ -41,6 +41,7 @@ class SocialRegisterCubit extends Cubit< SocialRegisterState> {
   bool isPasswordShown = true;
 //
   //hello from ahmad 0934961515
+  // updation ahmad
   void changePasswordVisibilty() {
     isPasswordShown = !isPasswordShown;
     suffix = isPasswordShown ? Icons.visibility_outlined : Icons.visibility_off;
