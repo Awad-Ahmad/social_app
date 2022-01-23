@@ -44,7 +44,8 @@ class SocialRegisterCubit extends Cubit< SocialRegisterState> {
 //
   //hello from ahmad 0934961515
   // updation ahmad sssssssssssss
-  //adonis//ddds
+  //adonis
+  // ddds mm mm mm mm mm mm mm mm mm mm
   // this is the test
   void changePasswordVisibilty() {
     isPasswordShown = !isPasswordShown;
