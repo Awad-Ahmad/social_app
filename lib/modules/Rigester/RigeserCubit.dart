@@ -38,6 +38,7 @@ class SocialRegisterCubit extends Cubit< SocialRegisterState> {
   //   });}
   //comit
 
+
   IconData suffix = Icons.visibility_outlined;
   bool isPasswordShown = true;
 //
