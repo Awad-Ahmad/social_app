@@ -4,7 +4,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:social_app/Cubit/AppStets.dart';
 
 import 'AppStets.dart';
-//welcome anas
+//welcome anas3
 class AppLoginCubit extends Cubit<AppState>
 {
   AppLoginCubit() : super(AppInialSatate());
