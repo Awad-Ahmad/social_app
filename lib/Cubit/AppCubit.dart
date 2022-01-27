@@ -3,6 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:social_app/Cubit/AppStets.dart';
 
+import 'AppStets.dart';
+
 class AppLoginCubit extends Cubit<AppState>
 {
   AppLoginCubit() : super(AppInialSatate());
